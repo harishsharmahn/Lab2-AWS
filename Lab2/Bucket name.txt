@@ -1,0 +1,1 @@
+arn:aws:sns:us-east-1:901330459689:S3toEC2Topic.fifo
